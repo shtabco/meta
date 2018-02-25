@@ -1,4 +1,4 @@
-package com.shtabco.meta.utils;
+package com.shtabco.meta.services;
 
 import java.io.File;
 
